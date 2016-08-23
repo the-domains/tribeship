@@ -18,5 +18,8 @@ navigation:
   - name: Me
     url: facebook.com/hakemer
     type: external
+  - name: Copy Chief
+    url: copychief.com
+    type: external
 title: How to build and grow your tribe
 description: Even if you're a one man show ...
