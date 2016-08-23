@@ -1,0 +1,14 @@
+layout_spectrum: 0.2172785047441721
+typography_spectrum: 0.58792082243599
+color:
+  brandStrength: 0.002863734494894743
+  lightness: 0.608437899267301
+  saturation: 0.9748438608366996
+  rhythmicContrast: 0.5011551796924323
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Tribeship
